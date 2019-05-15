@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lxl.server.ServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.404 sec - in com.lxl.server.ServerApplicationTests
